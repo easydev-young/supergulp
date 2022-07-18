@@ -17,3 +17,12 @@ npm init
 touch gulpfile.babel.js
 
 npm add @babel/core npm add @babel/register npm add @babel/preset-env npm add del npm add gulp-webserver npm i gulp-image
+
+npm i node-sass gulp-sass --save-dev npm install --save-dev gulp-autoprefixer npm install gulp-csso --save-dev npm install --save-dev gulp-bro npm add babelify npm add uglifyify npm i gulp-gh-pages
+
+
+git remote -v
+
+npm run build
+
+npm run deploy
